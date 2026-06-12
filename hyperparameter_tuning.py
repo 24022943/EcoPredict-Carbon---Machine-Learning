@@ -1,6 +1,6 @@
 """
 hyperparameter_tuning.py
-EcoPredict Carbon - GridSearchCV tuning for final report.
+EcoPredict Carbon - GridSearchCV tuning.
 
 Chạy:
     python hyperparameter_tuning.py
