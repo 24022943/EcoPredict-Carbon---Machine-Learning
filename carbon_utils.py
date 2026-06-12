@@ -1,6 +1,6 @@
 """
 carbon_utils.py
-Core utilities for EcoPredict Carbon Streamlit package.
+Core utilities for EcoPredict Carbon Streamlit app.
 
 Định hướng hệ thống:
 - PCF là lõi: dự báo Product Carbon Footprint theo sản phẩm.
