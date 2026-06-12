@@ -1,6 +1,6 @@
 """
 imbalance_handler.py
-Utilities xử lý mất cân bằng lớp cho EcoPredict Carbon.
+Utilities xử lý mất cân bằng lớp EcoPredict Carbon.
 
 Mục tiêu:
 - Không để lớp phát thải cao bị bỏ sót chỉ vì số mẫu ít.
